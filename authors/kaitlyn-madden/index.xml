@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaitlyn Madden | Ruxin Wang</title>
+    <link>https://RuxinWang1994.github.io/authors/kaitlyn-madden/</link>
+      <atom:link href="https://RuxinWang1994.github.io/authors/kaitlyn-madden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaitlyn Madden</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Ruxin Wang</copyright><lastBuildDate>Fri, 18 Feb 2022 20:26:16 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kaitlyn Madden</title>
+      <link>https://RuxinWang1994.github.io/authors/kaitlyn-madden/</link>
+    </image>
+    
+    <item>
+      <title>Low-effort User Authentication for Kiosk Systems based on Smartphone User&#39;s Gripping Hand Geometry</title>
+      <link>https://RuxinWang1994.github.io/publication/chilbw21/</link>
+      <pubDate>Fri, 18 Feb 2022 20:26:16 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/publication/chilbw21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

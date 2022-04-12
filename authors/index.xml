@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ruxin Wang</title>
+    <link>https://RuxinWang1994.github.io/authors/</link>
+      <atom:link href="https://RuxinWang1994.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Ruxin Wang</copyright><lastBuildDate>Fri, 18 Feb 2022 20:26:16 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://RuxinWang1994.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>__Ruxin Wang__</title>
+      <link>https://RuxinWang1994.github.io/authors/__ruxin-wang__/</link>
+      <pubDate>Fri, 18 Feb 2022 20:26:16 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/authors/__ruxin-wang__/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>and Chen Wang</title>
+      <link>https://RuxinWang1994.github.io/authors/and-chen-wang/</link>
+      <pubDate>Fri, 18 Feb 2022 20:26:16 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/authors/and-chen-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaitlyn Madden</title>
+      <link>https://RuxinWang1994.github.io/authors/kaitlyn-madden/</link>
+      <pubDate>Fri, 18 Feb 2022 20:26:16 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/authors/kaitlyn-madden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Huang</title>
+      <link>https://RuxinWang1994.github.io/authors/long-huang/</link>
+      <pubDate>Mon, 13 Dec 2021 21:38:19 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/authors/long-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://RuxinWang1994.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://RuxinWang1994.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a 2nd-year PhD student of Electrical Engineering and Computer Science Department at 
+&lt;a href=&#34;https://www.lsu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Louisiana State University&lt;/a&gt;, Baton Rouge. I am a member of MistLab advised by 
+&lt;a href=&#34;http://csc.lsu.edu/~chenwang/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Chen Wang&lt;/a&gt;. I got my Master&amp;rsquo;s degree from the Engineering and Computer Science Department at 
+&lt;a href=&#34;https://www.syracuse.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syracuse University&lt;/a&gt;. My research interests include Mobile Sensing and Computing, Deep Learning, Cyber Security and privacy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

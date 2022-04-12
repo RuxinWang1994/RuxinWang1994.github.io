@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Chen Wang | Ruxin Wang</title>
+    <link>https://RuxinWang1994.github.io/authors/and-chen-wang/</link>
+      <atom:link href="https://RuxinWang1994.github.io/authors/and-chen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>and Chen Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2022 Ruxin Wang</copyright><lastBuildDate>Fri, 18 Feb 2022 20:26:16 -0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>and Chen Wang</title>
+      <link>https://RuxinWang1994.github.io/authors/and-chen-wang/</link>
+    </image>
+    
+    <item>
+      <title>Low-effort User Authentication for Kiosk Systems based on Smartphone User&#39;s Gripping Hand Geometry</title>
+      <link>https://RuxinWang1994.github.io/publication/chilbw21/</link>
+      <pubDate>Fri, 18 Feb 2022 20:26:16 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/publication/chilbw21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing Handheld Phone Distraction for Drivers by Sensing the Gripping Hand</title>
+      <link>https://RuxinWang1994.github.io/publication/mass21/</link>
+      <pubDate>Mon, 13 Dec 2021 21:38:19 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/publication/mass21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Distracted driving detection by sensing the hand gripping of the phone</title>
+      <link>https://RuxinWang1994.github.io/publication/mobicom21/</link>
+      <pubDate>Wed, 27 Oct 2021 20:26:16 -0600</pubDate>
+      <guid>https://RuxinWang1994.github.io/publication/mobicom21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
